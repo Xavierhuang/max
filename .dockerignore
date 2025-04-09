@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+__pycache__
+*.pyc
+
+# Build outputs
+build
+dist
+*.egg-info
+
+# Version control
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data
+data/*
+!data/.gitkeep 
